@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+}
+.pro{
+    width:1140px;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+}
+.clearfix:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.lang{
+    align-content: center;
+    width: 20%;
+    padding-bottom: 26.48%;
+    float: left;
+    border: black 2px solid;
+}
+.main{
+    text-align: center;
+    width: 50%;
+    float: left;
+    border: black 2px solid;
+}
+.qual{
+    text-align: center;
+    width: 28.9%;
+    float: left;
+    padding-bottom: 25.2%;
+    border: black 2px solid;
+}
+.friend{
+    border: black 2px solid;
+}
+.dream{
+    border-top: yellowgreen 2px solid;
+}
